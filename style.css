@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(229, 230, 221, 0.918);
+}
+.divContainer{
+    background-color: #608fc5;
+    padding: 1px;
+    margin: 5px;
+}
+.parrafo{
+    background-color:rgba(229, 230, 221, 0.918);
+    color: #343434;
+    padding: 13px;
+    margin: 15px;
+    border-radius: 5px;
+}
+.parrafo.dragging{
+    opacity: 0.5;
+}
+.img-ghost{
+    width: 90vw;
+    height: 50px;
+    background-color: rgb(214, 236, 14);
+    border-radius: 5px;
+    position: absolute;
+    left: -100vw;
+}
+.papelera{
+    width: 50px;
+    height: 60px;
+    margin-left: 45%;
+    border-radius: 20px;
+}
